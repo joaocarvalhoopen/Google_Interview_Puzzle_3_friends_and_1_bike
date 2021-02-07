@@ -2,10 +2,12 @@
 One more problem solved by Monte Carlo simulation.
 
 ## Description
-This was a google interview question that is explained in the following link: <br
-Google Interview Riddle - 3 Friends Bike and Walk <br>
+This was a google interview question that is explained in the following link: <br>
+
+* Google Interview Riddle - 3 Friends Bike and Walk <br>
 [https://www.youtube.com/watch?v=82b0G38J35k](https://www.youtube.com/watch?v=82b0G38J35k) <br>
-<br>
+
+
 Basically, you have 3 friends that want to go from one house A to a house B, the distance between them is 300 KM, They have one bike that can take maximum of2 of the friends at a time, and need a pilot.
 
 * When a person is walking it goes at 15 KM/h.
